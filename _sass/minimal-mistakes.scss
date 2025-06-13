@@ -35,3 +35,52 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+.custom-tooltip {
+  position: relative;
+  cursor: help;
+  border-bottom: 1px dotted #5f676d; /* darker dotted line */
+  color: #5f676d; /* slightly darker text */
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.custom-tooltip:hover {
+  color: #2c3e50; /* darken text on hover */
+  border-bottom: 1px solid #2c3e50;
+}
+
+.custom-tooltip .tooltip-text {
+  visibility: hidden;
+  opacity: 0;
+  background-color: #7a8288;
+  color: #ffffff;
+  text-align: center;
+  padding: 6px 12px;
+  border-radius: 6px;
+  position: absolute;
+  bottom: 130%;
+  left: 50%;
+  transform: translateX(-50%);
+  white-space: nowrap; // This will work for the width of the translation popups as long as the line is short.
+
+  z-index: 1000;
+  transition: opacity 0.25s ease-in-out;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+/* Tooltip arrow */
+.custom-tooltip .tooltip-text::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 6px;
+  border-style: solid;
+  border-color: #7a8288 transparent transparent transparent;
+}
+
+.custom-tooltip:hover .tooltip-text {
+  visibility: visible;
+  opacity: 1;
+}
