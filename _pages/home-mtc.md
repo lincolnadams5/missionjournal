@@ -7,8 +7,19 @@ endowment.JPG:
 nametag.JPG:
   - image_path: /assets/images/nametag.JPG
     alt: "nametag.JPG"
+mtc-legos.JPG:
+  - image_path: /assets/images/mtc-legos.JPG
+  - alt: "mtc-legos.JPG"
+next-btn:
+  - image_path: ""
+    alt: ""
+    title: "Millcreek/Wilford/Valley View Stakes - Elder Gifford"
+    excerpt: "September 28, 2021 - November 10, 2021"
+    url: "/millcreek-gifford/"
+    btn_label: "Chapter 2"
+    btn_class: "btn--primary"
 ---
-
+# Chapter 1
 # Pre-MTC
 
 > I guess I should start with everything that happened before I even started the MTC. I got my call in May. I was working out with Matthew and Tyler in the garage when the text came in. It was a surreal moment. I remember that we played the one song that’s in Nacho Libre and jumped around celebrating. After they left, I opened the call with just my family. My heart was pounding out of my chest, but once I read the place, it all felt right. I couldn’t even pronounce the name of the city, Guayaquil. It was a special moment. 
@@ -76,3 +87,95 @@ Good Sunday. Mom got home today too so this week will kind of go back to “norm
 ## August 31, 2021
 
 It’s been two kinda crap days so I probably won’t write much but I realized something just now. I am a missionary. I represent Jesus Christ. These two years already started and I can’t waste any time. I need to make sure that I am working hard enough to learn Spanish, preach the gospel and be a good, faithful missionary. <span class="custom-tooltip">Dos años no es mucho tiempo. Eso es todo.<span class="tooltip-text">Two years isn’t a lot of time. That’s it.</span></span>
+
+## Septermber 2, 2021
+
+It’s been two pretty good days now. I’m studying a lot, working hard and really feeling some progress so it feels good. I’m also starting to get to know my district a little better which is nice, hopefully I’ll meet some of them in person eventually. (I could do without meeting Elder Abele though.) Everyone is starting to have fun in class which makes time go by a little faster but the days still feel so long. 8 hours on Zoom is no joke.
+
+Elder Clove and I taught some mini lessons with some real latino miembros today. It was a real, “oh crap”, moment. They speak so fast. I also realized that I barely know that many words. We were able to get by but it was difficult. All the more motivation to improve though. Elder Clove seems unmotivated. I need to find ways to include him and get him more excited about learning and studying. We’ll see. 
+
+> I was frustrated with Elder Clove for the majority of my MTC time. He was hard to work with because he didn’t seem like he really wanted to do anything. He wanted to chat about random stuff that he liked a lot (like Marvel) and I think it annoyed me that he wasn’t as motivated as I was. He probably just needed a friend. 
+
+## September 3, 2021
+
+We roleplayed a street contact today and it went kind of meh. My Spanish is getting better but I need to be more patient and communicate better with Elder Clove. Definitely going to put more effort on that front because he struggles a little when it comes to finding words on the fly. It will get better. Excited for tomorrow. 
+
+## September 6, 2021
+
+It’s hard to remember what happened these past few days. Saturday was good. We had the Hubbard’s, Brown’s, Habermeyer’s and Hank over to our house for dinner. It was a good time. When I have a family of my own, I want to model it after these families. They are all such good, happy people.
+
+Said goodbye to Matthew on Sunday. I also got to be in the circle to set him apart as an Elder. What a special feeling. Especially after all we’ve been through together, all of the good and bad choices. 
+
+> This was another really special experience, especially considering everything that Matthew and I had been through together. It was kind of a turning point for both of us. I love that dude. We’ve come a long way, and I’m proud of him. He’ll do a lot of good for a lot of people in his life. 
+
+I also fasted on Sunday which was a good experience. I need God’s strength in my life and it is really humbling to see how weak I become after 18 or so hours without food. Today was good too. I talked to our cleaning lady, Guadalupe, in Spanish. She’s super nice and it was good for me to practice. I’m so excited to get to Ecuador. Gotta focus on Salt Lake first though. 
+
+## September 8, 2021
+
+Today I spent my P-morning at the DMV, so fun! I had to review my license and get the new “REAL” ID and everything went smoothly which is all you can ask for at the DMV. Class was normal. Hoping to do some good study tomorrow. I want to learn more about the life of Christ. 
+
+I felt really anxious about the flight today for some reason. I was able to calm myself down which is good but I still worry about feeling anxious when I leave. I know I will so I need to prepare for that. Hopefully breathing techniques can go a long way because I’ll need all the help I can get. 
+
+> I was doing therapy sessions at this point through LDS Family Services. The only thing I remember about those sessions was the breathing techniques to get through panic attacks. They were helpful, but certainly not the “end-all” solution. 
+
+## September 11, 2021
+
+1 month down, 23 to go! Jeez, I can’t wait to get to the field. Today I felt strongly impressed that I need to strengthen my relationship with Christ and come to known Him better. How am I to preach the fulness of His gospel if I’m not actively studying it?! I can’t wait to teach. Today during our roleplay lesson, I remembered how much I love to teach, something I practiced nearly every day when I taught piano. There are so many prepared people both in Salt Lake City and in Guayaquil, Ecuador that need to hear this message!
+
+## September 12, 2021
+
+I love this Gospel. I am so grateful for families. I love my family. I can’t wait to have one of my own someday. Hopefully one of my sons or daughters will be able to read this one day. I want them to know that it is through this Gospel, through the Atonement, through Jesus Christ that we can feel joy in our lives. It is through Him. <span class="custom-tooltip">Yo amo a mi Salvador. <span class="tooltip-text">I love my Savior</span></span>
+
+{% include gallery id="mtc-legos.JPG" type="center" caption="Legos kept me going through those long Zoom calls." %}
+
+## September 13, 2021
+
+Interesting one today. Power was out when we got home so the majority of the evening was spent playing piano, guitar, entertaining the littles and hanging out. We went to go get dry ice and as I was going to put it in the freezer, the power turned back on and the A/C scared the crap out of me. Rexy says we were living like olden times. 
+
+## September 14, 2021
+
+Bruhhhhh. Get me out of Clayton. I’m so ready to get to the field and preach the good word ya feel. But anyways. District has gotten really into chess lately. Not sure why but I am garbage at chess. Clove beat me three times in a row today. The Risenmay in me does not like losing. 
+
+## September 19, 2021 
+
+One more week to go!! I’m excited/nervous but I think that’s a good thing. It’s going to be hard but as Mom always talks about, hard things make you better. It was a good end of last week. I think I’m losing motivation to study and stuff but I think it’s because I’m tired of sitting on Zoom. I’m excited to get a new companion though. Elder Clove, as good of a guy he is, makes me very, very tired. 
+
+> Elder Clove wasn’t that bad, I think I was just a baby. 
+
+I got to see Nate give his farewell talk today and hang out with his family. He talked about serving the Lord and not worrying about the place you’re assigned and just giving your best. I really felt the Spirit. It was fun to meet his family too. I’m always just as impressed with how pulled-together, calm and easy to talk to Nate is. He’s a great guy. Also talked to the boys from back home today. I hope Matthew does good at BYU-I. I love that kid. He has so much good to offer.
+
+{% include gallery id="mtc-legos.JPG" type="center" caption="Nate and I were random roommates my freshman year at BYU and he was a big reason I was able to come on a mission in the first place. We had similar obstacles and were able to help each other reach that goal of getting on a mission. It was surreal to see how far we had come." %}
+
+## September 21, 2021
+
+Today has been weird. I haven’t had motivation to study or do a whole lot. For a large part of today I was anxious and kind of trying to find distractions. At a few points I was starting to be overcome by intense waves of fear and self-doubt. It’s so frustrating because I know that I want to do this but it feels like my mind is fighting me. I need to be closer to the Spirit. I need to be doing the things that will allow me to receive that comfort and guidance. I know that with the Spirit I can be comforter and I know that through Jesus Christ I can do all things. I need to trust Him. I need Him.
+
+## September 23, 2021
+
+I’m going to try and be better about writing in this everyday. I want this to be a journal of my thoughts and feelings because I figure those are more easily forgotten if I don’t write them down.
+
+Learned some good ways to manage my anxiety today. I have to agree with what Rulon told me the other day, everyone should go to therapy. It’s really interesting to learn to view your thoughts and feelings in a different light, especially the uncomfortable ones. I’ve made it a goal to meditate for 10 minutes each night. I need to practice simply observing my thoughts and feelings rather than trying to change them or alter them. It’ll be a nice exercise I think. 
+
+## September 24, 2021
+
+One more day! Had a few struggles with some anticipatory anxiety today but I did good. I’m ready to go. Not much else to say. We did a kinda-sorta testimony bearing with the district today. It was good. I hope I can meet all these people in person someday. Yes, even Elder Clove… Hopefully the new comp will be cool. We will see… 
+
+## September 24, 2021
+
+I feel like all I write about now is anxiety but alas, it is what has been taking over my thoughts for the past few days. Eating meals seems to trigger it, and today during morning calls I had a panic attack. I was able to calm down and let the feelings pass but it has been so hard recently. Why did I think it would be easy? I know that the adversary doesn’t want me to serve so I need to be strong and keep battling. I know that the light will replace the darkness. I can do this. Future Lincoln reading this: You can do this. In other news, it was a good last day of CCM. The <span class="custom-tooltip">Hermanas<span class="tooltip-text">The sister missionaries</span></span> put together a cute video that I think I’ll be coming back to watch every so often. I’m grateful for my district they’re good people. 
+
+{% include gallery id="mtc-legos.JPG" type="center" caption="The district was pretty fun given that it was all online. I met a few of them after at BYU and Elder Draper and Abele (Middle row, far right and top row, middle left) were both assigned to my same mission." %}
+
+## September 26, 2021
+
+The main goal I have for this journal is not to keep an agenda of everything that happens everyday. That’s not important. I want future me and any future readers of this journal to hear and understand my thoughts, my worries, my struggles, but most importantly, I want them to understand who I am. My goal is that by reading this journal you will be able to know who I was from August 2021 to August 2023. 
+
+Today it has been made clear to me that anxiety is my first “cross to bear” on my mission. It is so taxing on my mind and body. I sincerely feel that in these battles with anxiety, I’ve had to push myself harder than I ever have before. I have to push myself to eat, to not chase after thoughts and to not throw up, to name a few. It is mentally and physically exhausting. 
+
+No matter how hard it feels, the one thing that always stays with me is that these feelings aren’t from Christ, but with Him and through faith in Him, He can help me through this trial. Through these experiences I have prayed more often and more intently than I ever have before. I’ve read the scriptures and words of prophets more intently than I ever have before. I know that, without a doubt, God can lift us through trials. But sometimes he doesn’t take them away. That’s because they are necessary. They help us grow.
+
+My hand hurts from writing but I felt like I needed to share this. I think someday, someone will read it who really needs to hear that they aren’t alone. Maybe that person is me. It probably is. 
+
+> The two days leading up to my flight were the hardest by far. I’m not sure I was able to eat anything at all the day I left. Packing was a blur. I remember holding ice cubes in my hand because it would help ground me into reality and stop my head from spinning. I felt really vulnerable and weak, and what I hated most was that I couldn’t understand why it was so hard for me. I think all of this really humbled me. 
+
+{% include feature_row id="next-btn" type="center" %}
